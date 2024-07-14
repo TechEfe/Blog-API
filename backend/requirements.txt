@@ -1,0 +1,7 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-rest-auth
+asgiref
+django-cors-headers
+PyJWT
